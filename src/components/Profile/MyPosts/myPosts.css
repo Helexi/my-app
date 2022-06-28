@@ -1,0 +1,6 @@
+.myPost-textarea-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
